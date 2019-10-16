@@ -11,3 +11,8 @@ puts "Freddy Krueger"
 puts "The Joker"
 puts "Joffrey Baratheon"
 puts "Norman Bates"
+#anything after a hash is ignored
+
+print "Overall, we have "
+print 11
+puts " great students"
